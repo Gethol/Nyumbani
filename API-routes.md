@@ -64,3 +64,14 @@
 
 - `/requests/?`
 >Gets all requests for a single property owner
+
+---
+**Payments**
+-`/payments/getTransactions/?`
+>Gets all transactions for a single property owner
+
+-`/payments/extract/?`
+>Gets transaction history for a specific property
+
+-`/payments/summary/?`
+>Get summary of transactions for a specific property owner
